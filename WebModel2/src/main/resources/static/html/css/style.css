@@ -150,6 +150,11 @@ button#showLeftPush:hover {
 	-webkit-transition:.5s all;
 	-moz-transition:.5s all;
 }
+.cbp-spmenu-push div#page-login {
+    transition:.5s all;
+    -webkit-transition:.5s all;
+    -moz-transition:.5s all;
+}
 .cbp-spmenu-push.cbp-spmenu-push-toright div#page-wrapper {
     margin: 0;
 }
